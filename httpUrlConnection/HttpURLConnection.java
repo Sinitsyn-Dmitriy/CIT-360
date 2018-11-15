@@ -9,7 +9,7 @@ import java.io.*;
  * @author dmitriysinitsyn
  */
 
-public class Main {
+public class HttpURLConnection {
     public static void main(String[] args) throws Exception{
         try{
             URL myUrl = new URL("http://www.byui.edu");
