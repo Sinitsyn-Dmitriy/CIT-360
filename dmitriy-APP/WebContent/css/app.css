@@ -1,0 +1,54 @@
+body { background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/N13e7awhgiljgescq/videoblocks-black-empty-space-with-stars-dark-science-background-with-movement_rrrhaewqg_thumbnail-full01.png'); 
+background-size: 100%;
+}
+.color-white{
+  color: #fff;
+}
+.container{
+    margin: 0 15%;
+}
+.title{
+  color: #ff6100;
+  margin-left: 32%;
+}
+.form-control{
+  height: calc(2.25rem + 1em);
+}
+
+.allNotes{
+  margin-left: 17%;
+}
+
+a{
+  color: #fff;
+}
+a:hover{
+  color: #ff6100;
+}
+
+.card{
+  margin-bottom: 1.5em;
+  border-left: solid 0.7em #ff6100;
+}
+
+i:hover{
+  cursor: pointer;
+}
+
+.displayNone{
+	display: none;
+}
+
+.card-body{
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+  background-color: #fff;
+}
+
+.success{
+  padding: 4em;
+}
+
+.test{
+	color: yellow;
+}
